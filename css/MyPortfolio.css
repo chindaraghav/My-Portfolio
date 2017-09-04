@@ -1,0 +1,135 @@
+.hrstyle1{
+	height: 10px;
+	border: 0;
+	box-shadow: 0 10px 10px -10px #8c8b8b inset;
+}
+.hrstyle2{
+    border: 0;
+    box-shadow: 0 0 10px 1px black;
+}
+.navbar1
+{
+	margin:0px;
+}
+.txxt
+{
+	width:400px;
+	height:100px;
+	    border: none;
+		outline:none;
+    border-bottom: 5px solid black;
+	background:#fcbfbf;
+	font-size:20px;
+	color:black;
+	margin-bottom:30px;
+	font-weight:bold;
+}
+.message
+{
+	width:400px;
+	height:200px;
+	border: none;
+	outline:none;
+    border-bottom: 5px solid black;
+	background:#fcbfbf;
+	font-size:20px;
+	margin-bottom:60px;
+	color:black;
+		font-weight:bold;
+		resize:none;
+}
+.ic
+{
+	margin-left:15px;	
+}
+.ic:hover{
+    -webkit-filter: invert(80%) !important;
+}
+.title
+{
+	font-size:30px;
+	font-weight:bold;
+}
+#nav
+{
+	height:80px;
+	padding:20px;
+	font-size:18px;
+}
+#brand
+{
+	font-size:30px;
+	font-family:Merriweather,helvetica;
+}
+#ull li
+{
+	font-family:Merriweather,helvetica;
+}
+#contm
+{
+	margin-top:80px;
+	background:purple;
+}
+#con1
+{
+	background:silver;
+}
+
+#con1
+{
+	background:#918787;
+}
+#about
+{
+	font-size:25px;
+	font-family:Merriweather,helvetica;
+	color:#e0e0e0;
+}
+#con11
+{
+	margin-top:50px;
+	margin-bottom:50px;
+}
+
+#con2
+{
+	background:#edeaea;
+}
+#poti
+{
+	font-family:Merriweather,helvetica;
+	font-size:40px;
+}
+#con2 img
+{
+	margin-top:60px;;
+}
+#con3
+{
+	background:#fcbfbf;
+}
+#con3h
+{
+	font-family:Merriweather,helvetica;
+	font-size:40px;
+}
+#con3p
+{
+	font-size:23px;
+}
+footer
+{
+	height:250px;
+	background:#9a8cd8;
+	font-family:Merriweather,helvetica;
+}
+.aa
+{
+	margin-top:70px;
+}
+#btn
+{
+	height:80px;
+	width:150px;
+	margin-top:90px;
+}
